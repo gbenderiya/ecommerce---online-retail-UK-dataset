@@ -15,9 +15,9 @@ The goal was to help users save time and reduce stress in finding gifts by devel
 Source: Kaggle (UK E-commerce dataset)
 - Variables: InvoiceNo, Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate.
 - Size: 541,909 observations across 4,224 products, with data spanning 38 countries.
-- Key Metrics:
-            - Unique Orders: 25,900
-            - Unique Users: 4,373
+- **Key Metrics**:  
+  - **Unique Orders**: 25,900  
+  - **Unique Users**: 4,373
   
 ### Methods and Techniques
 We employed a combination of statistical analysis, machine learning, and deep learning to achieve project goals:
