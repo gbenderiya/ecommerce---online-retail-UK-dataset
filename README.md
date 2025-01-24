@@ -50,6 +50,7 @@ The project demonstrated the potential of data-driven approaches to improve user
 ### Resources
 Project Report:  [Project Document](documents/ProjectReport.docx)  
 Presentation Slides: [Project Presentation](documents/ecommerce.pptx)
+Data Source: [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ### How to Run the Project
 - Clone this repository.
