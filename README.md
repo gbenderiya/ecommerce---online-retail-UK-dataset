@@ -48,10 +48,9 @@ We employed a combination of statistical analysis, machine learning, and deep le
 The project demonstrated the potential of data-driven approaches to improve user experiences and boost profitability in e-commerce. Our recommendation system and sales analysis highlighted actionable insights for better product targeting and promotional planning.
 
 ### Resources
-Project Report:  [Project Document](documents/ProjectReport.docx)  
-Presentation Slides: [Project Presentation](documents/ecommerce.pptx)
-
-Data Source: [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- Project Report:  [Project Document](documents/ProjectReport.docx)  
+- Presentation Slides: [Project Presentation](documents/ecommerce.pptx)
+- Data Source: [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ### How to Run the Project
 - Clone this repository.
