@@ -15,9 +15,9 @@ The goal was to help users save time and reduce stress in finding gifts by devel
 Source: Kaggle (UK E-commerce dataset)
 - Variables: InvoiceNo, Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate.
 - Size: 541,909 observations across 4,224 products, with data spanning 38 countries.
-- **Key Metrics**:  
-  - **Unique Orders**: 25,900  
-  - **Unique Users**: 4,373
+- Key Metrics:  
+  - Unique Orders: 25,900  
+  - Unique Users: 4,373
   
 ### Methods and Techniques
 We employed a combination of statistical analysis, machine learning, and deep learning to achieve project goals:
@@ -25,9 +25,9 @@ We employed a combination of statistical analysis, machine learning, and deep le
 - Exploratory Data Analysis (EDA): Sales trends by time, product popularity, and customer segmentation.
 - NLP (Word Clouds): Visualized product descriptions to analyze popular items.
 - Regression and Classification:
-            - Random Forest and XGBoost for sales prediction.
-            - K-Nearest Neighbors (KNN) for personalized product recommendations.
-            - Recommendation System: Built using a user-item matrix and KNN to suggest similar products based on purchase history.
+  - Random Forest and XGBoost for sales prediction.
+  - K-Nearest Neighbors (KNN) for personalized product recommendations.
+  - Recommendation System: Built using a user-item matrix and KNN to suggest similar products based on purchase history.
 
 ### Results
 1. Recommendation System: Successfully identified similar products using KNN with cosine similarity.
